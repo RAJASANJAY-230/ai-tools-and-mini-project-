@@ -1,0 +1,18 @@
+🚀 Excited to share my AI Study Assistant mini project!
+
+As part of my learning journey, I built an AI-powered study tool designed to help students learn more effectively and revise with confidence.
+
+📚 Key features:
+• Turn study notes into clear summaries
+• Generate practice quizzes with answer keys
+• Create revision flashcards
+• Build a structured 7-day study plan
+• Download generated learning material
+
+🛠️ Tech stack: Python, Streamlit, Google Gemini API
+
+This project helped me practice Python application development, API integration, prompt design, user-interface building, and responsible handling of API keys. I also learned the importance of reviewing AI-generated content instead of treating every response as automatically correct.
+
+I’m looking forward to improving the app and exploring more practical AI applications.
+
+#Python #ArtificialIntelligence #GenerativeAI #Streamlit #StudentDeveloper #LearningByBuilding
